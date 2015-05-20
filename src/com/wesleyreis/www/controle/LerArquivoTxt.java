@@ -10,8 +10,8 @@ import java.util.Observer;
 /**
  * Classe Responsável por Ler e retornar um StringBuilder do Conteúdo de um arquivo Texto.
  * 
- * Esta Classe Implementa os padrões: Baixo acoplamento(Low Coupling), não fazendo chamadas externas
- * a outras Classes mutáveis.
+ * Esta Classe Implementa os padrões: Baixo acoplamento(Low Coupling), 
+ * não fazendo chamadas externas a outras Classes.
  * Também o Padrão Observer ou Publisher-Subscriber ou Event Generator e Dependents, 
  * que são sinonimos encontrados nas documentações.
  * 

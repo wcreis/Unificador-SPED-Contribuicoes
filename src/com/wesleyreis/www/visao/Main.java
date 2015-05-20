@@ -40,6 +40,12 @@ import com.wesleyreis.www.modelo.ArquivoSPED;
 import com.wesleyreis.www.visao.util.Format;
 import com.wesleyreis.www.visao.util.ListModelArquivos;
 
+/**
+ * Classe Principal do Sistema, que contem os elementos
+ * de Interface Grafica (GUI).
+ * @author Wesley Reis
+ *
+ */
 public class Main implements Observer{
 
 	private JFrame frmUnificadorEfd;

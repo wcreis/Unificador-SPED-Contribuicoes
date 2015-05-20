@@ -12,7 +12,7 @@ import java.util.Observer;
 import com.wesleyreis.www.modelo.ArquivoSPED;
 /**
  * Classe Responsavel por Percorrer todos os arquivos e unifica-los.
- * @author Wesley
+ * @author Wesley Reis
  *
  */
 public class Unifica extends Observable implements Runnable{
@@ -284,11 +284,8 @@ public class Unifica extends Observable implements Runnable{
 				}
 			}
 		} catch (IOException e3) {
-			// TODO Auto-generated catch block
 			e3.printStackTrace();
 		}
-
-
 	}
 
 	public String[] getArquivoUnificado(){

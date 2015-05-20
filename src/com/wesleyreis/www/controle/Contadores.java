@@ -8,5 +8,4 @@ public abstract class Contadores {
 	public static int QTD_LIN_REG_0990 = 0;
 	public static int QTD_LIN_REG_C990 = 0;
 	public static int QTD_LIN_REG_9999 = 0;
-
 }

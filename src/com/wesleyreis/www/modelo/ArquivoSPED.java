@@ -3,6 +3,7 @@ package com.wesleyreis.www.modelo;
 /**
  * Classe Simples para Armazenar Informações sobre o Arquivo
  * a ser trabalhado.
+ * Implemeta Comparable, para utilizar o Método CompareTo.
  * 
  * @author Wesley Reis
  *
