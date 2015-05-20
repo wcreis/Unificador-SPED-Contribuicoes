@@ -1,5 +1,6 @@
 # Unificador-SPED-Contribuicoes
-Sistema para Unificar os Arquivos gerados para o SPED Contribuições, Matriz e n-Filiais
+Sistema para Unificar os Arquivos gerados para o SPED Contribuições, Matriz e n-Filiais.
+
 Após validar cada Arquivo de cada Filial separadamente.
 Proceder com a unificação dos Arquivos
 
